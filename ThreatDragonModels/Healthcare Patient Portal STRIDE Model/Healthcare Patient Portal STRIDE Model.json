@@ -1,0 +1,36 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "Healthcare Patient Portal STRIDE Model",
+    "owner": "nada",
+    "description": "This STRIDE diagram identifies and categorizes potential security threats in the Healthcare Patient Portal system, including login authentication, medical record access, and appointment booking.\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Healthcare Patient Portal Threat Model",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "This diagram models the main components of the Healthcare Patient Portal and identifies potential security threats using the STRIDE methodology, including login, medical record access, and appointment booking."
+      },
+      {
+        "id": 4,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 5,
+    "reviewer": "nader",
+    "threatTop": 0
+  }
+}
