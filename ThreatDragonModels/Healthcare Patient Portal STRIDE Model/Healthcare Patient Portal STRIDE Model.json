@@ -1640,15 +1640,6 @@
           }
         ],
         "description": "This diagram models the main components of the Healthcare Patient Portal and identifies potential security threats using the STRIDE methodology, including login, medical record access, and appointment booking."
-      },
-      {
-        "id": 4,
-        "title": "New STRIDE diagram",
-        "diagramType": "STRIDE",
-        "placeholder": "New STRIDE diagram description",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
-        "version": "2.4.1",
-        "cells": []
       }
     ],
     "diagramTop": 5,
